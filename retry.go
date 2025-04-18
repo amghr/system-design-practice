@@ -2,7 +2,7 @@
 // 1) Fibonacci
 // 2) EvenNumber
 // 3) OddNumber
-//
+// 
 // I should be able to retry any function
 
 package main
